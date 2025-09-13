@@ -37,11 +37,11 @@ Game Mechanics:
 
 SQL Agent Tools
 
-- query_player_stats: Player performance analytics
-- match_analysis: Match-level insights and comparisons
-- team_performance: Team statistics and trends
-- season_comparisons: Cross-season analysis
-- head_to_head: Team vs team historical data
+- `query_player_stats`: Player performance analytics
+- `match_analysis`: Match-level insights and comparisons
+- `team_performance`: Team statistics and trends
+- `season_comparisons`: Cross-season analysis
+- `head_to_head`: Team vs team historical data
 
 Domain-Aware Query Processing
 - Understand cricket terminology (strike rate, economy, etc.)
